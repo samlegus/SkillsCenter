@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\ShootingControls.cs">
+    <Files>
+      <File FileName="Assets\Scripts\ImprovedMovement.cs" Line="5" Column="2" />
+      <File FileName="Assets\Scripts\UserControl.cs" Line="4" Column="25" />
+      <File FileName="P:\Flicker.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ShootingControls.cs" Line="6" Column="39" />
+      <File FileName="Assets\Scripts\BulletCollision.cs" Line="10" Column="2" />
+      <File FileName="Assets\Scripts\ShootUpward.cs" Line="14" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
