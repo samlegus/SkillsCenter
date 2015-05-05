@@ -10,6 +10,21 @@ public class ShootingControls : MonoBehaviour
 	void Update()
 	{
 		//When the D key is held...
+		if ( Input.GetKey ( KeyCode.W ) == true)
+		{
+			//Change our shooting direction to the left
+			shootingDirection = Vector3.up;
+		}
+		if ( Input.GetKey ( KeyCode.S ) == true)
+		{
+			//Change our shooting direction to the left
+			shootingDirection = Vector3.down;
+		}
+		if ( Input.GetKey ( KeyCode.A ) == true)
+		{
+			//Change our shooting direction to the left
+			shootingDirection = Vector3.left;
+		}
 		if ( Input.GetKey ( KeyCode.D ) == true)
 		{
 			//Change our shooting direction to the left

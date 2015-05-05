@@ -47,9 +47,8 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\BulletBehaviour.cs" />
+     <Compile Include="Assets\Scripts\CharacterHealth.cs" />
      <Compile Include="Assets\Scripts\Flicker.cs" />
-     <Compile Include="Assets\Scripts\ImprovedMovement.cs" />
-     <Compile Include="Assets\Scripts\PlayerHealth.cs" />
      <Compile Include="Assets\Scripts\ShootUpward.cs" />
      <Compile Include="Assets\Scripts\ShootingControls.cs" />
      <Compile Include="Assets\Scripts\UserControl.cs" />
