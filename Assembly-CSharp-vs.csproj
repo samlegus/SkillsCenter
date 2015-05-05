@@ -46,15 +46,13 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Scripts\BulletCollision.cs" />
+     <Compile Include="Assets\Scripts\BulletBehaviour.cs" />
      <Compile Include="Assets\Scripts\Flicker.cs" />
      <Compile Include="Assets\Scripts\ImprovedMovement.cs" />
-     <Compile Include="Assets\Scripts\PlayerControl.cs" />
-     <Compile Include="Assets\Scripts\PlayerControls.cs" />
+     <Compile Include="Assets\Scripts\PlayerHealth.cs" />
      <Compile Include="Assets\Scripts\ShootUpward.cs" />
      <Compile Include="Assets\Scripts\ShootingControls.cs" />
      <Compile Include="Assets\Scripts\UserControl.cs" />
-     <Compile Include="Assets\Scripts\UserRotation.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
